@@ -1,0 +1,6 @@
+ng new prompt-ui
+cd prompt-ui
+ng generate component prompt-list
+ng generate component prompt-detail
+ng generate component add-prompt
+ng generate service prompt
