@@ -1,0 +1,3 @@
+django-admin startproject prompt_manager
+cd prompt_manager
+python manage.py startapp prompts
